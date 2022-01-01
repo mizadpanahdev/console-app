@@ -1,0 +1,16 @@
+C:\Users\m.izadpanah\Documents\sources\console-app\ProjectName\bin\Debug\net5.0\ProjectName.exe
+C:\Users\m.izadpanah\Documents\sources\console-app\ProjectName\bin\Debug\net5.0\ProjectName.deps.json
+C:\Users\m.izadpanah\Documents\sources\console-app\ProjectName\bin\Debug\net5.0\ProjectName.runtimeconfig.json
+C:\Users\m.izadpanah\Documents\sources\console-app\ProjectName\bin\Debug\net5.0\ProjectName.runtimeconfig.dev.json
+C:\Users\m.izadpanah\Documents\sources\console-app\ProjectName\bin\Debug\net5.0\ProjectName.dll
+C:\Users\m.izadpanah\Documents\sources\console-app\ProjectName\bin\Debug\net5.0\ref\ProjectName.dll
+C:\Users\m.izadpanah\Documents\sources\console-app\ProjectName\bin\Debug\net5.0\ProjectName.pdb
+C:\Users\m.izadpanah\Documents\sources\console-app\ProjectName\obj\Debug\net5.0\ProjectName.csproj.AssemblyReference.cache
+C:\Users\m.izadpanah\Documents\sources\console-app\ProjectName\obj\Debug\net5.0\ProjectName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.izadpanah\Documents\sources\console-app\ProjectName\obj\Debug\net5.0\ProjectName.AssemblyInfoInputs.cache
+C:\Users\m.izadpanah\Documents\sources\console-app\ProjectName\obj\Debug\net5.0\ProjectName.AssemblyInfo.cs
+C:\Users\m.izadpanah\Documents\sources\console-app\ProjectName\obj\Debug\net5.0\ProjectName.csproj.CoreCompileInputs.cache
+C:\Users\m.izadpanah\Documents\sources\console-app\ProjectName\obj\Debug\net5.0\ProjectName.dll
+C:\Users\m.izadpanah\Documents\sources\console-app\ProjectName\obj\Debug\net5.0\ref\ProjectName.dll
+C:\Users\m.izadpanah\Documents\sources\console-app\ProjectName\obj\Debug\net5.0\ProjectName.pdb
+C:\Users\m.izadpanah\Documents\sources\console-app\ProjectName\obj\Debug\net5.0\ProjectName.genruntimeconfig.cache
